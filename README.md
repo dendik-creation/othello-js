@@ -4,4 +4,4 @@ Othello Javascript Game
 
 ## Demo
 
-[Othello Javascript](#)
+[Othello Javascript](https://dendik-creation.github.io/othello-js/)
